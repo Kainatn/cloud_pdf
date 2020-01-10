@@ -1,0 +1,40 @@
+.container{
+    position: relative;
+    color: #ffffff;
+    font-family: 'Arimo', sans-serif;
+}
+.top-left {
+    position: absolute;
+    padding: 8rem;
+    top: 8px;
+  }
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    padding: 5rem;
+  }
+  h1{
+      letter-spacing: 1px;
+      font-size: 100px;
+      font-weight: 100;
+      line-height: 45px; 
+      
+  }
+  span{
+    letter-spacing: 3px;
+      font-weight:1000;
+  }
+  h2{
+    font-size: 60px;
+    letter-spacing: 3px;
+    padding-top: 4rem;
+    line-height: 50px;
+    padding-bottom: 1.5rem;
+  }
+  h3{
+    font-size: 50px;
+    letter-spacing: 3px; 
+    line-height: 20px;
+    font-weight:1;
+
+  }
