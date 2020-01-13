@@ -11,13 +11,14 @@
   .bottom-left {
     position: absolute;
     bottom: 8px;
-    padding: 8rem;
+    padding: 8rem 8rem 10rem 8rem;
   }
   h1{
+    margin: 5px;
       letter-spacing: 1px;
       font-size: 100px;
       font-weight: 100;
-      line-height: 45px; 
+      /* line-height: 45px;  */
       
   }
   span{
@@ -28,13 +29,13 @@
     font-size: 60px;
     letter-spacing: 3px;
     padding-top: 4rem;
-    line-height: 50px;
+    margin-top: 10px;
     padding-bottom: 1.5rem;
   }
   h3{
     font-size: 50px;
     letter-spacing: 3px; 
-    line-height: 20px;
+    margin:15px;
     font-weight:1;
   }
   p{
